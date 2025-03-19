@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schedules on CVHS Trojan Football</title>
+    <link>http://localhost:1313/schedule/</link>
+    <description>Recent content in Schedules on CVHS Trojan Football</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Mar 2025 21:01:22 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/schedule/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schedule</title>
+      <link>http://localhost:1313/schedule/schedule/</link>
+      <pubDate>Thu, 13 Mar 2025 21:01:22 -0700</pubDate>
+      <guid>http://localhost:1313/schedule/schedule/</guid>
+      <description>&lt;h1 id=&#34;2025-cvhs-football-schedule&#34;&gt;2025 CVHS Football Schedule&lt;/h1&gt;&#xA;&lt;p&gt;Game 1&#xA;Game 2&#xA;Game 3&#xA;Game 4&#xA;&amp;hellip;&#xA;Game 10&#xA;Bye&#xA;Playoffs&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Play_balls on CVHS Trojan Football</title>
+    <link>http://localhost:1313/play_ball/</link>
+    <description>Recent content in Play_balls on CVHS Trojan Football</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Mar 2025 13:51:26 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/play_ball/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Play Ball!!!</title>
+      <link>http://localhost:1313/play_ball/play_ball/</link>
+      <pubDate>Fri, 14 Mar 2025 13:51:26 -0700</pubDate>
+      <guid>http://localhost:1313/play_ball/play_ball/</guid>
+      <description>&lt;p&gt;So you want to play some football&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

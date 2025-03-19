@@ -1,0 +1,12 @@
+<div class="social-icons" style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+  {{ with site.Params.social.twitter }}
+    <a href="{{ . }}" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-twitter"></i>
+    </a>
+  {{ end }}
+  {{ with site.Params.social.instagram }}
+    <a href="{{ . }}" target="_blank" rel="noopener noreferrer">
+      <i class="fab fa-instagram"></i>
+    </a>
+  {{ end }}
+</div>

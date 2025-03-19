@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <div class="home-hero">
+    <h1>{{ .Site.Title }}</h1>
+    <p>{{ .Site.Params.description }}</p>
+  </div>
+
+  {{ range .Site.RegularPages }}
+    <article>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Summary }}</p>
+    </article>
+  {{ end }}
+{{ end }}

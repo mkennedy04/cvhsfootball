@@ -1,0 +1,43 @@
+baseURL = 'https://cvhsfootball.org/'
+languageCode = 'en-us'
+title = 'CVHS Trojan Football'
+theme = 'hugo-profile'
+[params.navbar]
+	disableSearch = true
+[params.social]
+	twitter = "https://x.com/CastroValleyFB"
+	instagram = "https://www.instagram.com/castrovalleyfb"
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = "Schedule"
+    pageref = '/schedule/'
+    weight = 20
+  [[menus.main]]
+    name = 'Coaches Bios'
+    pageRef = '/coaches/'
+    weight = 30
+  [[menus.main]]
+    name = 'Play Ball'
+    pageRef = '/play_ball/'
+    weight = 40
+  [[menus.main]]
+    name = '6AM Club'
+    pageRef = '/6am_club/'
+    weight = 50
+  [[menus.main]]
+    name = 'Calendar'
+    pageRef = '/calendar/'
+    weight = 60
+  [[menus.main]]
+    name = 'Merch'
+    pageRef = '/merch/'
+    weight = 70
+  [[menus.main]]
+    name = 'Where are they now'
+    pageRef = '/where/'
+    weight = 80
+

@@ -1,0 +1,4 @@
+baseURL = 'https://cvhsfootball.org/'
+languageCode = 'en-us'
+title = 'Castro Valley High School Football'
+theme = 'hugo-profile'

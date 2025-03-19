@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Castro Valley High School Football on CVHS Trojan Football</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Castro Valley High School Football on CVHS Trojan Football</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Mar 2025 13:51:26 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Play Ball!!!</title>
+      <link>http://localhost:1313/play_ball/play_ball/</link>
+      <pubDate>Fri, 14 Mar 2025 13:51:26 -0700</pubDate>
+      <guid>http://localhost:1313/play_ball/play_ball/</guid>
+      <description>&lt;p&gt;So you want to play some football&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mike Kennedy</title>
+      <link>http://localhost:1313/coaches/coach01/</link>
+      <pubDate>Fri, 14 Mar 2025 13:30:30 -0700</pubDate>
+      <guid>http://localhost:1313/coaches/coach01/</guid>
+      <description>&lt;p&gt;Name: Mike Kennedy&lt;/p&gt;&#xA;&lt;p&gt;1st year coaching [at CVHS]: 2010 [2020]&lt;/p&gt;&#xA;&lt;p&gt;Role: OL/DL/S&amp;amp;C&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Schedule</title>
+      <link>http://localhost:1313/schedule/schedule/</link>
+      <pubDate>Thu, 13 Mar 2025 21:01:22 -0700</pubDate>
+      <guid>http://localhost:1313/schedule/schedule/</guid>
+      <description>&lt;h1 id=&#34;2025-cvhs-football-schedule&#34;&gt;2025 CVHS Football Schedule&lt;/h1&gt;&#xA;&lt;p&gt;Game 1&#xA;Game 2&#xA;Game 3&#xA;Game 4&#xA;&amp;hellip;&#xA;Game 10&#xA;Bye&#xA;Playoffs&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Roster</title>
+      <link>http://localhost:1313/roster/roster/</link>
+      <pubDate>Thu, 13 Mar 2025 21:01:13 -0700</pubDate>
+      <guid>http://localhost:1313/roster/roster/</guid>
+      <description>&lt;h1 id=&#34;cvhs-player-roster&#34;&gt;CVHS Player Roster&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Thu, 13 Mar 2025 20:56:58 -0700</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;my-first-cvhs-football-post&#34;&gt;My First CVHS Football Post&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
